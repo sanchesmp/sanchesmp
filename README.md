@@ -1,16 +1,16 @@
-### Hi there 👋
+> 👨🏻‍💻 Full stack Developer
+- 🛠 Lang & Framework: Vue/React/Angular, Javascript, Laravel
+### Portfolio
 
-<!--
-**sanchesmp/sanchesmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *pending...*
 
-Here are some ideas to get you started:
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
+![pv](https://pageview.vercel.app/?github_user=mopig)
