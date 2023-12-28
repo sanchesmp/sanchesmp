@@ -1,5 +1,5 @@
 > 👨🏻‍💻 Full stack Developer
-- 🛠 Lang & Framework: Vue/React/Angular, Javascript, Laravel
+- 🛠 Lang & Framework: Vue/React/Angular, Javascript, Python, C#
 ### Portfolio
 
 > *pending...*
